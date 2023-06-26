@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>400157789521-kt3ar7lfmqvdmrelv7pmlcqpbeodqfnd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.400157789521-kt3ar7lfmqvdmrelv7pmlcqpbeodqfnd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5C-SUcXRYY8gQVGzmHeyz90DtqFuC9CM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400157789521</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.steer-tech.parkingapp</string>
+	<key>PROJECT_ID</key>
+	<string>innate-works-131704</string>
+	<key>STORAGE_BUCKET</key>
+	<string>innate-works-131704.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400157789521:ios:4ab7bc9e93bc6d7a485770</string>
+	<key>DATABASE_URL</key>
+	<string>https://innate-works-131704.firebaseio.com</string>
+</dict>
+</plist>
